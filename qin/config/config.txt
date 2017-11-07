@@ -1,11 +1,9 @@
 [Setup]
-å…¬å‘Šåœ°å€=http://dspi.me/qin/notice.html
-å®˜æ–¹é¦–é¡µ=http://dspi.me/qin
-è‡ªåŠ¨åˆ·æ–°=1
-åˆ·æ–°é€Ÿåº¦=120
+¹«¸æµØÖ·=http://dspi.me/qin/notice.html
+¹Ù·½Ê×Ò³=http://dspi.me/qin
+×Ô¶¯Ë¢ĞÂ=1
+Ë¢ĞÂËÙ¶È=120
 
 [Server]
-250=å…¨ç½‘é€šæ— è‹±é›„å¤å¤åŒº|ä¸‡é‡Œé•¿å¾|ä¸‡é‡Œé•¿å¾|127.0.0.1|7000|1|micro-client.dspi.me|8001|0
+0=²âÊÔ·şÎñÆ÷|²âÊÔ×¨Çø|²âÊÔ×¨Çø|mir2-server-1.dspi.me|6010|1|micro-client.dspi.me|0|0
 
-[Upgrade]
-;0=1 \   æ˜¥ç§‹ä¼ å¥‡ç™»å½•å™¨.exe  2d952329e6e8102c34f94df435019156   http://sos-gl-r.doopai.com/downloads/%E6%98%A5%E7%A7%8B%E4%BC%A0%E5%A5%87%E7%99%BB%E5%BD%95%E5%99%A8_20170228_2.exe
